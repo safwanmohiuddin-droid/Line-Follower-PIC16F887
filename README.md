@@ -1,9 +1,9 @@
-# 🤖 Line Follower Robot — PIC16F887
+#  Line Follower Robot — PIC16F887
 
 An autonomous line-following robot built around the **PIC16F887** microcontroller. The robot uses two IR obstacle-avoidance sensors to detect a black line on a white surface and steers itself to stay on course by independently controlling two DC motors.
 We use a powerbank as the power source in this project. 
 
-## 📸 Demo
+##  Demo
  
 > *Proteus simulation screenshot — "TURNING LEFT" state*
  
@@ -11,7 +11,7 @@ We use a powerbank as the power source in this project.
  
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 Two IR sensors are mounted at the front of the chassis, straddling the line. Each sensor outputs:
 
@@ -50,7 +50,7 @@ The **L293D** H-bridge IC sits between the PIC16F887 and the DC motors, boosting
 
 ---
 
-## 📐 Circuit / Pin Map
+##  Circuit / Pin Map
 
 ```
 PORTA (inputs)
@@ -73,7 +73,7 @@ PORTD (outputs)
 
 ---
 
-## 💻 Software
+##  Software
 
 - **IDE / Compiler:** [MikroC Pro for PIC](https://www.mikroe.com/mikroc-pro-for-pic)
 - **Simulation:** [Proteus Design Suite](https://www.labcenter.com/)
@@ -93,7 +93,7 @@ The `lcd()` helper function only writes to the display when the state actually c
 
 ---
 
-## 📁 Repository Structure
+## 📁Repository Structure
 
 ```
 line-follower-pic16f887/
@@ -106,7 +106,7 @@ line-follower-pic16f887/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository:
    ```bash
@@ -119,7 +119,7 @@ line-follower-pic16f887/
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 | Item | Detail |
 |------|--------|
