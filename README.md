@@ -7,7 +7,7 @@ We use a powerbank as the power source in this project.
  
 > *Proteus simulation screenshot — "TURNING LEFT" state*
  
-![Proteus Simulation](docs/simulation.png)
+![Proteus Simulation](doc/image.png)
  
 ---
 
