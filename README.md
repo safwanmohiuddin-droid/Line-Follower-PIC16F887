@@ -115,7 +115,7 @@ line-follower-pic16f887/
 2. Open `src/main.c` in **MikroC Pro for PIC**.
 3. Set the target device to **PIC16F887** and the oscillator frequency to match your hardware.
 4. Compile and flash the `.hex` output to the microcontroller.
-5. *(Optional)* Load the Proteus project from `docs/` to simulate before flashing.
+
 
 ---
 
