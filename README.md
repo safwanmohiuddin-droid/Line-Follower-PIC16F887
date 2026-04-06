@@ -3,7 +3,13 @@
 An autonomous line-following robot built around the **PIC16F887** microcontroller. The robot uses two IR obstacle-avoidance sensors to detect a black line on a white surface and steers itself to stay on course by independently controlling two DC motors.
 We use a powerbank as the power source in this project. 
 
-
+## 📸 Demo
+ 
+> *Proteus simulation screenshot — "TURNING LEFT" state*
+ 
+![Proteus Simulation](docs/simulation.png)
+ 
+---
 
 ## 🧠 How It Works
 
