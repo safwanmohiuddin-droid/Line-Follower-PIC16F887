@@ -99,7 +99,7 @@ The `lcd()` helper function only writes to the display when the state actually c
 line-follower-pic16f887/
 ├── src/
 │   └── main.c          # MikroC source code
-├── docs/
+├── doc/
 │   └── simulation.png  # Proteus simulation screenshot
 └── README.md
 ```
